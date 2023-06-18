@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252839653787",
+    "project_id": "fangram-app",
+    "storage_bucket": "fangram-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252839653787:android:d54d7a39f11096c43af13e",
+        "android_client_info": {
+          "package_name": "com.example.fangram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252839653787-4cl0h2750dcok2n59h6eptd6k8hlq548.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX6tpdVgo_hTNkG9LgV7i-X33-OO2rIVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252839653787-4cl0h2750dcok2n59h6eptd6k8hlq548.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
